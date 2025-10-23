@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @it05644bt
-- 👀 I’m interested in BI and Python
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @Ioan Tuglea
+- 👀 I’m interested in BI and Python and AI
+- 🌱 I’m currently learning .net, camunda8, rest api
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
 <!---
-it05644bt/it05644bt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+this is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
